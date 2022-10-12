@@ -21,7 +21,7 @@ This is a collection of useful resources to supercharge your next agency increas
 -
 
 ### Web
-{% include linklist.md list=site.data.development.web.articles %}
+{% include category.md list=site.data.development.web %}
 ### Native
 -
 ### Chrome
