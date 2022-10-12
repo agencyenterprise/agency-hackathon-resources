@@ -1,8 +1,8 @@
-{% if include.category %}
-{% for category in include.category %}
+{{ include }}
+
+{% if include.list %}
+{% for category in data[include.category][include.list] %}
 - category.label
-  {% for category_list in category.list %}
-    {% include linklist.md list=category_list %}
-  {% endfor %}
+  {% include linklist.md list=category.list %}
 {% endfor %}
 {% endif %}
