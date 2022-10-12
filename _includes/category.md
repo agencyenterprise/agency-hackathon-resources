@@ -1,8 +1,6 @@
-{% if include.list and include.category %}
-{{ include.list }}
-{{ include.category }}
+{% if include.list and include.category and site.data[include.category][include.list] %}
 {% for category in site.data[include.category][include.list] %}
-- {{ category.label }}
+- {% if category.icon %}{{{ category.icon }}{% endif %} **{{ category.label }}**
   {% include linklist.md list=category.list %}
 {% endfor %}
 {% endif %}
