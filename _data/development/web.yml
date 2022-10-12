@@ -1,0 +1,29 @@
+- templates:
+  - label: "Templates"
+  - list:
+    - title: ""
+      url: ""
+      description: ""
+    - title: ""
+      url: ""
+      description: ""
+    
+- libraries:
+  - label: "Libraries"
+  - list:
+    - title: ""
+      url: ""
+      description: ""
+    - title: ""
+      url: ""
+      description: ""
+      
+- libraries:
+  - label: "Frameworks"
+  - list:
+    - title: ""
+      url: ""
+      description: ""
+    - title: ""
+      url: ""
+      description: ""
