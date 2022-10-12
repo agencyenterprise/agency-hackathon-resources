@@ -1,29 +1,29 @@
-- templates:
-  - label: "Templates"
-  - list:
-    - title: ""
-      url: ""
-      description: ""
-    - title: ""
-      url: ""
-      description: ""
-    
-- libraries:
-  - label: "Libraries"
-  - list:
-    - title: ""
-      url: ""
-      description: ""
-    - title: ""
-      url: ""
-      description: ""
-      
-- frameworks:
-  - label: "Frameworks"
-  - list:
-    - title: ""
-      url: ""
-      description: ""
-    - title: ""
-      url: ""
-      description: ""
+
+- label: "Templates"
+  list:
+  - title: ""
+    url: ""
+    description: ""
+  - title: ""
+    url: ""
+    description: ""
+
+
+- label: "Libraries"
+  list:
+  - title: ""
+    url: ""
+    description: ""
+  - title: ""
+    url: ""
+    description: ""
+
+
+- label: "Frameworks"
+  list:
+  - title: ""
+    url: ""
+    description: ""
+  - title: ""
+    url: ""
+    description: ""
