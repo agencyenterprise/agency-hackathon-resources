@@ -1,5 +1,6 @@
 - planning:
   - label: "Planning"
+    data: "planning"
     list:
     - ideas:
       data: "ideas"
@@ -11,6 +12,7 @@
       icon: "🔗"
 - development:
   - label: "Development"
+    data: "development"
     list: 
     - web:
       data: "web"
