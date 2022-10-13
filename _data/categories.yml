@@ -1,4 +1,10 @@
 - planning:
+  - ideas:
+    label: "Ideas"
+    icon: "💭"
+  - organization:
+    label: "Organization"
+    icon: "🔗"
 - development:
   - web:
     label: "Web"
