@@ -10,26 +10,9 @@ This is a collection of useful resources to supercharge your next agency increas
 
 ---
 
-## Content
-
-### Organization
-#### Articles
--
-#### Videos
--
-
-## Development
-#### Articles
--
-#### Videos
--
-
-{% include category.md label="Web" category="development" list="web" %}
-### Native
--
-### Chrome
--
-### Slack
--
-### VSCode
--
+{% for category in site.data.categories %}
+## {{ category.label }}
+  {% for list in category.list %}
+{% include category.md label=list.label category=category.data list=list.data %}
+  {% endfor %}
+{% endfor %}
