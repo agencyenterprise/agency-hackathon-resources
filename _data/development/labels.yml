@@ -1,0 +1,30 @@
+- template:
+  label: "Templates"
+  icon: "⚙"
+- library:
+  label: "Libraries"
+  icon: "📚"
+- framework:
+  label: "Frameworks"
+  icon: "📦"
+- web:
+  label: "Web"
+  icon: "🌐"
+- mobile:
+  label: "Mobile"
+  icon: "📱"
+- chrome:
+  label: "Chrome"
+  icon: "💻"
+- slack:
+  label: "Slack"
+  icon: "📨"
+- vscode:
+  label: "VS Code"
+  icon: "📝"
+- article:
+  label: "Articles"
+  icon: "📰"
+- video:
+  label: "Videos"
+  icon: "🎥"
