@@ -1,10 +1,7 @@
-<details>
-  <summary>
-    Content
-  </summary>
+<blockquote>
   <ul>
   {% for content in site.data.content %}
     <li>{{ content[1].icon }} <strong>{{ content[1].label }}</strong> - {{ content[1].desc }}</li>  
   {% endfor %}
   </ul>
-</details>
+</blockquote>
