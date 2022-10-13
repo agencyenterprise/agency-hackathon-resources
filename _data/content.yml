@@ -1,20 +1,20 @@
-- template:
+template:
   label: "Templates"
   icon: "🧱"
   desc: "Pre-configured boilerplate projects."
-- library:
+library:
   label: "Libraries"
   icon: "📦"
   desc: "Utility packages that accomplish different tasks."
-- framework:
+framework:
   label: "Frameworks"
   icon: "⚙"
   desc: "A cohesive and unified suite of tools."
-- article:
+article:
   label: "Articles"
   icon: "📰"
   desc: "Stuff you read."
-- video:
+video:
   label: "Videos"
   icon: "🎥"
   desc: "Stuff you watch."
