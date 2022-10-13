@@ -8,7 +8,7 @@ This is a collection of useful resources to supercharge your next agency increas
 
 {% include content_summary.html %}
 
----
+-
 
 {% for category in site.data.categories %}
 ## {{ category.label }}
