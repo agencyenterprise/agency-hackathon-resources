@@ -1,36 +1,27 @@
-- planning:
-  - label: "Planning"
-    data: "planning"
-    list:
-    - ideas:
-      data: "ideas"
+- label: "Planning"
+  data: "planning"
+  list:
+    - data: "ideas"
       label: "Ideas"
       icon: "💭"
-    - organization:
-      data: "organization"
+    - data: "organization"
       label: "Organization"
       icon: "🔗"
-- development:
-  - label: "Development"
-    data: "development"
-    list: 
-    - web:
-      data: "web"
+- label: "Development"
+  data: "development"
+  list: 
+    - data: "web"
       label: "Web"
       icon: "🌐"
-    - mobile:
-      data: "mobile"
+    - data: "mobile"
       label: "Mobile"
       icon: "📱"
-    - chrome:
-      data: "chrome"
+    - data: "chrome"
       label: "Chrome"
       icon: "💻"
-    - slack:
-      data: "slack"
+    - data: "slack"
       label: "Slack"
       icon: "📨"
-    - vscode:
-      data: "vscode"
+    - data: "vscode"
       label: "VS Code"
       icon: "📝"
