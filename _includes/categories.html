@@ -1,0 +1,10 @@
+<details>
+  <summary>
+    Categories
+  </summary>
+  <ol>
+  {% for label in site.data.labels %}
+    <li>{{ label.icon }} {{ label.label }}</li>  
+  {% endfor %}
+  </ol>
+</details>
