@@ -1,0 +1,11 @@
+- data: "article"
+  list:
+  - title: ""
+    url: ""
+    description: ""
+
+- data: "video"
+  list:
+  - title: ""
+    url: ""
+    description: ""
