@@ -13,6 +13,6 @@ This is a collection of useful resources to supercharge your next agency increas
 {% for category in site.data.categories %}
 ## {{ category.label }}
   {% for item in category.list %}
-{% include category.md category=category.data item=item %}
+{% include category.md parent=category.data category=item %}
   {% endfor %}
 {% endfor %}
