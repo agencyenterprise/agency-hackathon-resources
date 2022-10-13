@@ -20,8 +20,7 @@ This is a collection of useful resources to supercharge your next agency increas
 #### Videos
 -
 
-### Web
-{% include category.md category="development" list="web" %}
+{% include category.md label="Web" category="development" list="web" %}
 ### Native
 -
 ### Chrome
