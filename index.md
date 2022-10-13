@@ -1,4 +1,6 @@
-![AE Studio logo](https://ae.studio/img/aestudio-logo-light.svg)
+---
+layout: home
+---
 
 # Agency Hackathon Resources
 
@@ -29,5 +31,3 @@ This is a collection of useful resources to supercharge your next agency increas
 -
 ### VSCode
 -
-
-{% include footer.md %}
