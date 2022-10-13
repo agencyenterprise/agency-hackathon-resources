@@ -1,32 +1,17 @@
+- data: "template"
+  list:
+  - title: ""
+    url: ""
+    description: "
 
-- label: "Templates"
-  icon: "⚙"
+- data: "library"
   list:
   - title: ""
     url: ""
     description: ""
-  - title: ""
-    url: ""
-    description: ""
 
-
-- label: "Libraries"
-  icon: "📚"
+- data: "framework"
   list:
-  - title: ""
-    url: ""
-    description: ""
-  - title: ""
-    url: ""
-    description: ""
-
-
-- label: "Frameworks"
-  icon: "📦"
-  list:
-  - title: ""
-    url: ""
-    description: ""
   - title: ""
     url: ""
     description: ""
