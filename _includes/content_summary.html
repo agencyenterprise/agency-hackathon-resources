@@ -1,0 +1,10 @@
+<details>
+  <summary>
+    Content
+  </summary>
+  <ul>
+  {% for content in site.data.content %}
+    <li>{{ content.icon }} <strong>{{ content.label }}</strong> - {{ content.desc }}</li>  
+  {% endfor %}
+  </ul>
+</details>
