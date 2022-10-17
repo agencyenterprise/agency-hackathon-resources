@@ -1,6 +1,8 @@
 - data: "template"
   list:
-  - title: "Chrome Extension Samples"
-    url: "https://github.com/GoogleChrome/chrome-extensions-samples"
-  - title: "Chromium CRA TS"
-    url: "https://files.slack.com/files-pri/T02AX1XPX-F02MTS74V08/download/chromium-extension-cra-ts.zip?origin_team=T02AX1XPX"
+    - title: "Chrome Extension Samples (By SDS)"
+      url: "https://github.com/agencyenterprise/chrome-extensions"
+    - title: "Chrome Extension Samples"
+      url: "https://github.com/GoogleChrome/chrome-extensions-samples"
+    - title: "Chromium CRA TS"
+      url: "https://files.slack.com/files-pri/T02AX1XPX-F02MTS74V08/download/chromium-extension-cra-ts.zip?origin_team=T02AX1XPX"
