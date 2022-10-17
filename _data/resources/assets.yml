@@ -1,5 +1,10 @@
 - data: "graphic"
   list:
-  - title: ""
-    url: ""
-    description: ""
+  - title: "Feather Icons"
+    url: "https://feathericons.com/"
+    
+  - title: "Hero Icons"
+    url: "https://heroicons.com/"
+    
+  - title: "Tabler Icons"
+    url: "https://tabler-icons.io/"
