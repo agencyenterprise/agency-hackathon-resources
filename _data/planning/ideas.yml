@@ -6,6 +6,5 @@
 
 - data: "video"
   list:
-  - title: ""
-    url: ""
-    description: ""
+  - title: "Sam Altman - How to Succeed with a Startup"
+    url: "https://www.youtube.com/watch?v=0lJKucu6HJc"
