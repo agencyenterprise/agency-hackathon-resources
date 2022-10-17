@@ -34,6 +34,6 @@
   - label: "Resources"
     data: "resources"
     list:
-      - data: "icons"
-        label: "Icons"
+      - data: "assets"
+        label: "Assets"
         icon: "🧩"
