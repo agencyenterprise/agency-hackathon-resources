@@ -1,5 +1,4 @@
 - data: "template"
   list:
-  - title: ""
-    url: ""
-    description: ""
+  - title: "VSCode Extension Samples"
+    url: "https://github.com/microsoft/vscode-extension-samples"
