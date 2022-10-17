@@ -1,5 +1,4 @@
 - data: "template"
   list:
-  - title: ""
-    url: ""
-    description: ""
+  - title: "Chrome Extension Samples"
+    url: "https://sds-quick-account.vercel.app/"
