@@ -6,12 +6,16 @@
 
 - data: "library"
   list:
-  - title: ""
-    url: ""
-    description: ""
+  - title: "Mantine"
+    url: "https://mantine.dev/"
+    description: "Fully-featured component library with over 100 components."
 
 - data: "framework"
   list:
-  - title: ""
-    url: ""
-    description: ""
+  - title: "Nullstack"
+    url: "https://nullstack.app/"
+    description: "The no-stack framework that gets things done."
+
+  - title: "Next.JS"
+    url: "https://nextjs.org/"
+    description: "Fullstack JS framework built on top of React."
