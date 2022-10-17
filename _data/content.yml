@@ -22,3 +22,8 @@ graphic:
   label: "Graphics"
   icon: "🖌"
   desc: "Visual assets."
+service:
+  label: "Services"
+  icon: "☁"
+  desc: "Work taken off your back through a convenient API."
+  
