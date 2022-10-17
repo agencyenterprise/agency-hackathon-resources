@@ -31,9 +31,3 @@
     - data: "vscode"
       label: "VS Code Plugin"
       icon: "📝"
-  - label: "Resources"
-    data: "resources"
-    list:
-      - data: "assets"
-        label: "Assets"
-        icon: "🧩"
