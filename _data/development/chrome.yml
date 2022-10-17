@@ -1,5 +1,7 @@
 - data: "template"
   list:
+  - title: "Chrome Extension Samples (By SDS)"
+    url: "https://github.com/agencyenterprise/chrome-extensions"
   - title: "Chrome Extension Samples"
     url: "https://github.com/GoogleChrome/chrome-extensions-samples"
   - title: "Chromium CRA TS"
