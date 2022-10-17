@@ -8,3 +8,27 @@
     
   - title: "Tabler Icons"
     url: "https://tabler-icons.io/"
+
+  - title: "Humanities"
+    url: "https://levinunnink.gumroad.com/l/humanities-illustrations"
+    description: "Hand-drawn illustration library for your website or app that brings a human touch."
+
+  - title: "Blush"
+    url: "https://blush.design/"
+    description: "Easily create and customize stunning illustrations with collections made by artists across the globe."
+
+  - title: "Avvatars"
+    url: "https://avvvatars.com/"
+    description: "Free UI Avatars for Your Next Project. Get placeholder avatars unique to your user."
+
+  - title: "Loaders"
+    url: "https://uiball.com/loaders/"
+    description: "Free loaders & spinners for your next project. Built with HTML, CSS and a soupçon of SVG. Available for React and copypasta."
+
+  - title: "UI Generator"
+    url: "https://uigenerator.org/"
+    description: "Create mockup (fake) UI for your landing page, prototype, presentation, or blog post. Download free PNG files."
+
+  - title: "Texting Story Maker"
+    url: "https://chat-animator.com/"
+    description: "Create realistic text chat animations that simulate messaging apps! Export them for free as a video or GIF to create stories, commercials and memes."
