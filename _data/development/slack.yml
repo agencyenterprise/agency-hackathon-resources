@@ -1,5 +1,7 @@
 - data: "template"
   list:
-  - title: ""
-    url: ""
-    description: ""
+  - title: "Slack Bot Template"
+    url: "https://github.com/kmaida/template-slackbot"
+
+  - title: "Slack Stripe Bot Example"
+    url: "https://github.com/LucasLeRay/stripe_balance_slackbot"
