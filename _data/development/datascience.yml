@@ -1,11 +1,14 @@
-- data: "template"
+- data: "service"
   list:
-  - title: ""
-    url: ""
-    description: ""
+  - title: "Streamlit"
+    url: "https://streamlit.io/"
+    description: "Web interface for python apps."
 
-- data: "library"
-  list:
-  - title: ""
-    url: ""
-    description: ""
+  - title: "Replicate"
+    url: "https://replicate.com/"
+    description: "Easy to consume APIs for lots of models."
+    
+    
+  - title: "HuggingFace"
+    url: "https://huggingface.co/"
+    description: "A more diversified model interface."
