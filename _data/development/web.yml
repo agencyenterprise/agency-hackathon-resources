@@ -8,7 +8,7 @@
   list:
   - title: "Mantine"
     url: "https://mantine.dev/"
-    description: "Fully-featured component library with over 100 components."
+    description: "Fully-featured **React** component library with over 100 components."
 
 - data: "framework"
   list:
