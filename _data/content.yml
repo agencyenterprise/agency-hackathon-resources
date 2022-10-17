@@ -18,3 +18,7 @@ video:
   label: "Videos"
   icon: "🎥"
   desc: "Stuff you watch."
+graphic:
+  label: "Graphics"
+  icon: "🖌"
+  desc: "Visual assets."
